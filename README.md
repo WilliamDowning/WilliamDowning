@@ -1,9 +1,6 @@
 ### Hi there, I'm William Downing 👋
 
-<!--
-**WilliamDowning/WilliamDowning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Computer Science Major with a concentration in Data Science and Analytics. Passionate about all things Big Data related and love working witin Analytic tools like R, SQL, Jupyter & more. Recently began sharpening my skills within the Blockchain environment and always looking to expand my knowledge on Smart Contracts!
 
 - 🔭 I’m currently working on expanding my skills within Python in Jupyter notebook.
 - 🌱 I’m currently learning more about JS, Swift, and more NoSQL languages
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email) will.downing00@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've once spend the whole day troubleshooting a hardware issue to only realize it was the cable was the source :(
--->
+
